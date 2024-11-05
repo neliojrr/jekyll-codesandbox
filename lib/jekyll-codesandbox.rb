@@ -1,1 +1,2 @@
-require 'jekyll/code_sandbox'
+require 'jekyll'
+require_relative 'jekyll/code_sandbox'
